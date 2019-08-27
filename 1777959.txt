@@ -1,0 +1,25 @@
+or(elephant,whale)
+or(elephant,and(whale,fish))
+and(and(whale,fish),not(elephant))
+elephant
+not this and not that
+peanuts and almonds and pistacchios and chestnuts
+peanuts and (almonds and not pistacchios) and chestnuts
+peanuts and (almonds and not pistacchios) and chestnuts and peanuts and (almonds and not pistacchios) and chestnuts and peanuts and (almonds and not pistacchios) and chestnuts and peanuts and (almonds and not pistacchios) and chestnuts and peanuts and (almonds and not pistacchios) and chestnuts and peanuts and (almonds and not pistacchios) and chestnuts and peanuts and (almonds and not pistacchios) and chestnuts
+
+not not this
+not(not(not(not(not(not(not(that)))))))))
+AND(a,b)
+and ( a , b )
+and(and,or)
+not(cherry pie)
+dum dum dum
+dum)
+ AND (((
+
+)
+(
+and(a,b))
+and(a,b,c,d)
+or(d,e,f,g)
+and and or and or a b c d e f g 
